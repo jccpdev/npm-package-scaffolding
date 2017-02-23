@@ -1,0 +1,9 @@
+{
+  "name": "the-package-name",
+  "version": "0.0.1",
+  "description": "The Package Description",
+  "main": "index.js",
+  "repository": "git@github.com:jccpdev/npm-package-scaffolding.git",
+  "author": "Juan Carlos Contreras Piana <jc@jccp.me>",
+  "license": "MIT"
+}
